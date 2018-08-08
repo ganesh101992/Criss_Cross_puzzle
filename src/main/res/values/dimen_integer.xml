@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="button_width_size">100</integer>
+    <integer name="button_height_size">35</integer>
+
+    <integer name="box_width_height_size">34</integer>
+    <integer name="box_stroke_size">1</integer>
+    <integer name="node_radius_size">20</integer>
+    <integer name="cavity_radius_size">24</integer>
+    <integer name="cavity_stroke_size">2</integer>
+</resources>
